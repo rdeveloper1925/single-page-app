@@ -1,8 +1,9 @@
 <?php
 
 namespace App\Model;
-use App\Question;
+use App\Model\Question;
 
+use App\User;
 use Illuminate\Database\Eloquent\Model;
 
 class Reply extends Model
